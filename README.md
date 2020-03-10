@@ -9,7 +9,13 @@
 
 * [Disponíveis para download neste repositório](https://github.com/rpagliuca/apresentacao-event-horizon-cqrs-e-event-sourcing-em-go/raw/master/2020-03-10%20-%20Event%20Horizon:%20CQRS%20e%20Event%20Sourcing%20em%20Go.pdf)
 
-## Sobre o palestrante
+## Links úteis
+
+* Event Horizon: https://github.com/looplab/eventhorizon
+* Martin Fowler e CQRS: https://martinfowler.com/bliki/CQRS.html
+* The CQRS FAQ: http://cqrs.nu
+
+## Sobre mim
 
 * Desenvolvedor na YES.Technology
 * Blog: http://www.devser.com.br
