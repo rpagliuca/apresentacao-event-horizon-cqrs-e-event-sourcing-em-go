@@ -7,7 +7,7 @@
 
 ## Slides
 
-* [Disponíveis para download neste repositório](https://github.com/rpagliuca/apresentacao-event-horizon-cqrs-e-event-sourcing-em-go/raw/master/2020-03-10%20-%20Event%20Horizon:%20CQRS%20e%20Event%20Sourcing%20em%20Go.pdf)
+* [Download dos slides](https://github.com/rpagliuca/apresentacao-event-horizon-cqrs-e-event-sourcing-em-go/raw/master/2020-03-11%20-%20Event%20Horizon:%20CQRS%20e%20Event%20Sourcing%20em%20Go.pdf)
 
 ## Links úteis
 
